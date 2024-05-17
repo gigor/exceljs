@@ -1,3 +1,5 @@
+This is a fork of [exceljs](https://github.com/exceljs/exceljs) package with fixes. 
+
 # ExcelJS
 
 [![Build Status](https://github.com/exceljs/exceljs/actions/workflows/tests.yml/badge.svg?branch=master&event=push)](https://github.com/exceljs/exceljs/actions/workflows/tests.yml)
